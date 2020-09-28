@@ -1,0 +1,243 @@
+{
+  "exposants": [
+  { "date": "1er Décembre",
+    "title": "BEYOND Beach Hut Advent Calendar",
+    "content": "For this popular community arts event, a different Hove beach hut opens its doors each evening to display a Nativity-themed art installation, reminding people of the roots of Advent.",
+    "time": "1st to 24Décembre, 5.30 – 6.30pm.",
+    "location": "See website for map a details",
+    "price": "Free",
+    "linkUrl": "http://www.beyondchurch.co.uk/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "2 Décembre",
+    "title": "Artists' Open Houses",
+    "content": "Christmas Open Houses are back, wiwork from local artists, designers, a makers on sale in homes arou the city. Pop along for mulled wine, mince pies a one-of-a-ki gifts.",
+    "time": "Weekends until 9Décembre",
+    "location": "See website for map a details",
+    "price": "Free entry (until you start shopping...)",
+    "linkUrl": "https://aoh.org.uk/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "3 Décembre",
+    "title": "Brighton & Hove Schools Concert",
+    "content": "A choir of over 1200 voices from the city's Primary, Junior a Special Schools will come together to sing seasonal a specially written songs. The choir is joined by Brighton & Hove YouWi Orchestra a Brighton & Hove YouBig Band.",
+    "time": "7.00pm – 8.30pm",
+    "location": "Brighton Centre",
+    "price": "£4.50 — £13.00",
+    "linkUrl": "https://brightoncentre.co.uk/whats-on/2018/brighton-hove-schools-concert/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "4 Décembre",
+    "title": "Brighton & Hove Albion vs Crystal Palace",
+    "content": "Cheer on the Seagulls!",
+    "time": "Kick off 7.45pm",
+    "location": "AMEX Stadium",
+    "price": "Tickets from £30.00 (concessions available)",
+    "linkUrl": "https://www.brightonandhovealbion.com/matches/fixtures/first-team/2018192/december/brighton-and-hove-albion-vs-crystal-palace-on-04-dec-18/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "5 Décembre",
+    "title": "Lion & Lobster Christmas Market",
+    "content": "A festive market to kick off the countdown to Christmas. Gifts, food, mulled wine, craft beer a artists all wrapped under one roof.",
+    "time": "5.00pm - 11.00pm",
+    "location": "Lion & Lobster, Sillwood Street",
+    "price": "Free entry",
+    "linkUrl": "https://www.thelionandlobster.co.uk/event/christmas-market-opening-party/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "6 Décembre",
+    "title": "SPECTRUM",
+    "content": "SPECTRUM is a Brighton Dome music project dedicated to nurturing a cultivating Brighton's vibrant music scene.<br>Winter special at Brighton Museum. Enjoy a range of unplugged performances in the exhibition rooms a listen to local acts in a way that you won't have experienced before.",
+    "time": "8.00pm",
+    "location": "Brighton Museum",
+    "price": "£6.00 advance/ £8.00 on the door",
+    "linkUrl": "https://brightondome.org/event/18868/spectrum/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "7 Décembre",
+    "title": "New Engla House Artists' Open Studios",
+    "content": "35+ artists a makers open the doors to their studios in New Engla House for 3 days. Enjoy an alternative to high street Christmas shopping a buy unique gifts directly from the makers.",
+    "time": "Friday 7Décembre, 11.00am – 8.00pm<br>Saturday 8Décembre, 11.00am – 6.00pm<br>Sunday 9Décembre, 11.00am – 6.00pm",
+    "location": "New Engla House, New Engla Street",
+    "price": "Free entry",
+    "linkUrl": "http://nehopenstudios.org.uk/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "8 Décembre",
+    "title": "Santa Dash",
+    "content": "A crowd of Santas running in aid of Rockinghorse children's charity.",
+    "time": "10.30am",
+    "location": "Hove Lawns near the Peace Statue",
+    "price": "Free/ Make a donation",
+    "linkUrl": "http://www.santadashbrighton.co.uk/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "9 Décembre",
+    "title": "Christmas at the Royal Pavilion",
+    "content": "Experience the Royal Pavilion transformed wifestive decorations a glittering trees, a a replica of Queen Victoria's sleigh awaits you, where you can have Christmas photos!",
+    "time": "Drop-in craft activities take place on 8& 9th, 15& 16th, 21st – 23 Décembre | 11.00am – 5.00pm (last admission 4.30pm)",
+    "location": "Royal Pavilion",
+    "price": "Included in Royal Pavilion admission (half price for Brighton & Hove residents wiproof of address)",
+    "linkUrl": "https://brightonmuseums.org.uk/royalpavilion/whattosee/christmas-at-the-royal-pavilion/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "10 Décembre",
+    "title": "Blue Camel Club Christmas Party",
+    "content": "THE club night for learning disabled people a their friends. If you like to party, dance to bands, watch films, hang out wifriends a see performance, then the Blue Camel Club is for you! Wilive music a DJ sets.",
+    "time": "7.00pm – 10.00pm",
+    "location": "The Old Market",
+    "price": "Price: £5.00 (£1.00 carers)",
+    "linkUrl": "https://www.carousel.org.uk/events/blue-camel-club-8/",
+    "linkText": "Visit Carousel website"
+  },
+
+  { "date": "11 Décembre",
+    "title": "Grimm Tales",
+    "content": "Folk classics Little Red Riding Hood, Cinderella, Hansel a Gretel, Snow White, Rumpelstiltskin a others from the Brothers Grimm are presented in a fresh adaptation by acclaimed poet Carol Ann Duffy.<br>A beguiling a vigorous stage dramatization which takes a journey into the bright, warped world of a child's imagination. A feast of storytelling magic suitable for children a adults alike.",
+    "time": "Tuesday 11– Saturday 15at 7.45pm, plus Saturday 15at 2.30pm",
+    "location": "Brighton Little Theatre, Clarence Gardens",
+    "price": "£10.00 adults/ £8.50 under 14s",
+    "linkUrl": "https://www.brightonlittletheatre.com/grimmtales",
+    "linkText": "Visit website"
+  },
+
+  { "date": "12 Décembre",
+    "title": "Christmas Ghost Stories",
+    "content": "Never mi the tinsel a the presents, the turkey a the mistletoe. Take time out to celebrate the festive season the Victorian way — gathered together for spooky stories a tales of terror!",
+    "time": "7.30pm – 9.30pm",
+    "location": "The Southern Belle, Waterloo Street",
+    "price": "See listings",
+    "linkUrl": "https://www.facebook.com/events/290706548450860/",
+    "linkText": "Visit Facebook event"
+  },
+
+  { "date": "13 Décembre",
+    "title": "The Snowman exhibition",
+    "content": "Nothing says Christmas like The Snowman! To celebrate the 40anniversary of Raymo Briggs' much loved classic picture book, discover the magic in this exhibition of the original illustrations.",
+    "time": "Until 6January 2019",
+    "location": "Brighton Museum",
+    "price": "Free wiBrighton Museum admission (free to Brighton & Hove residents wiproof of address)",
+    "linkUrl": "https://brightonmuseums.org.uk/brighton/exhibitions-displays/the-snowman/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "14 Décembre",
+    "title": "Hove for the Holidays: Evergreen",
+    "content": "Resou a Rebelles presents two evenings of fresh a festive music in the wonderful acoustic of St Andrew's Church. Experience rare winter songs from arou the world, lush evergreen favourites a musical gems.",
+    "time": "Friday 14a Saturday 15th, 7.30 pm",
+    "location": "St Andrew's Church, Waterloo Street",
+    "price": "£14.00",
+    "linkUrl": "https://www.ticketsource.co.uk/whats-on/hove/st-andrews-church/hove-for-the-holidays-evergreen",
+    "linkText": "Visit TicketSource website"
+  },
+
+  { "date": "15 Décembre",
+    "title": "Festive events at Jubilee Library",
+    "content": "Winter Wonderfest: Poet Kay Walton will be hosting this poetry event welcoming young poets from local primary schools to perform their own poetry.<br>Plus Hullabaloo Quire will be singing some beautifully wintery yuletide songs. Relax, switch off from the hustle a bustle a enjoy!",
+    "time": "From 1.00pm",
+    "location": "Jubilee Library",
+    "price": "Free",
+    "linkUrl": "https://www.brighton-hove.gov.uk/content/leisure-and-libraries/libraries/jubilee-library",
+    "linkText": "Visit library's website"
+  },
+
+  { "date": "16 Décembre",
+    "title": "Peter Pan",
+    "content": "JM Barrie's classic Peter Pan comes to life this Christmas wia sprinkle of fairy dust a plenty of surprises. Peter a Tinkerbell invite you to the magical world of Neverland, a place where lost boys run riot, pirates are in fine voice, crocodiles go tick-tock, a the villain has a very shiny hook!<br>Suitable for all ages a is a perfect 'first-time' theatrical experience.",
+    "time": "Until 31st Décembre; see website for performance dates a times",
+    "location": "Attenborough Centre for the Creative Arts, University of Sussex, Falmer",
+    "price": "From £15.00",
+    "linkUrl": "https://www.attenboroughcentre.com/index.php?p=events/1991/peter-pan/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "17 Décembre",
+    "title": "Royal Pavilion Ice Rink",
+    "content": "Ice skating at the Royal Pavilion Ice Rink, open until 13January 2019 — one of the most beautiful spots to go ice skating!",
+    "time": "Open 10.00am – 10.15pm<br>(Tip: Go weekdays before 4.15pm, it’s cheaper!)",
+    "location": "Pavilion Gardens",
+    "price": "From £10.00 (concessions available)",
+    "linkUrl": "https://royalpavilionicerink.co.uk/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "18 Décembre",
+    "title": "Lion & Lobster Gay Men's Chorus",
+    "content": "Partnering up wiGay Men's Chorus who will sing their hearts out, as part of the pub's festive events season.",
+    "time": "8.00pm",
+    "location": "Lion & Lobster, Sillwood Street",
+    "price": "Free entry (just the drinks to pay for!)",
+    "linkUrl": "https://www.visitbrighton.com/whats-on/the-lion-and-lobster-gay-mens-chorus-p1657971",
+    "linkText": "Visit website"
+  },
+
+  { "date": "19 Décembre",
+    "title": "The Animals a Children Took to the Streets",
+    "content": "Like a giant novel burst to life. Seamlessly synchronising live music, performance a storytelling wistunning films a animation, this is the wickedly twisted international hit tale from the multiple award-winning 1927, the company behi Golem a The Magic Flute. Highly recommended!",
+    "time": "Until 12January 2019; see website for performance dates a times",
+    "location": "The Old Market",
+    "price": "£18.00 – £29.50 (concessions available)",
+    "linkUrl": "http://theoldmarket.com/shows/animals-children-took-streets/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "20 Décembre",
+    "title": "Carols by Candlelight",
+    "content": "A carol service for everyone, featuring NHS Community Choir Brighton a The Choir of St George's Church.<br>During the service there will be an opportunity to hang a star on the Christmas Tree in memory of a loved one.",
+    "time": "From 5.45pm for drinks a mince pies, carol service starts 6.30pm",
+    "location": "St George's Church, Kemp Town",
+    "price": "Free/ Donation to Friends of Brighton & Hove Hospitals",
+    "linkUrl": "https://www.brightonhospitalfriends.org.uk/support-us/fundraising/events/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "21 Décembre",
+    "title": "Burning the Clocks",
+    "content": "One of Brighton's best-loved public events, this year's theme is Remembrance. The lantern parade passes through the city centre, ending on the seafront wia dance performance a spectacular firework display.",
+    "time": "Starts 6.30pm",
+    "location": "Parade kicks off from New Road, ending on Madeira Drive",
+    "price": "Free/ Make a donation",
+    "linkUrl": "https://www.crowdfunder.co.uk/burning-the-clocks-2018",
+    "linkText": "Visit Crowdfunder website"
+  },
+
+  { "date": "22 Décembre",
+    "title": "Retro Xmas at Funky Fish",
+    "content": "The best tunes a Christmas hits of the 60s, 70s a 80s, including Funk, Soul, Motown, Rock'n'Roll, Rock Pop, Old School RnB, Jazzy, Disco, Britpop, Folk-pop a Northern Soul.",
+    "time": "9.00pm – 2.00am",
+    "location": "Funky Fish Club, New Madeira Hotel, Marine Parade",
+    "price": "Free entry",
+    "linkUrl": "http://www.funkyfishclub.co.uk/",
+    "linkText": "Visit website"
+  },
+
+  { "date": "23 Décembre",
+    "title": "Thor's Tipi Bar",
+    "content": "Take a break from your Christmas preparations a check out Thor's Viking-inspired tipi bar, wireal log fire, sweet treats, hot cocoa, glühwein, ale, fizz a more. Children welcome. Skol!",
+    "time": "Until 31st Décembre, 12.00 to 10.00pm",
+    "location": "Jubilee Square, Jubilee Street",
+    "price": "Free entry",
+    "linkUrl": "https://www.thorstipi.com/locations/winter/brighton",
+    "linkText": "Visit website"
+  },
+
+  { "date": "24 Décembre | Christmas Eve!",
+    "title": "Jack & The Beanstalk — Pantomime a Christmas Fayre",
+    "content": "Christmas isn't Christmas without a panto! This new production of Jack & The Beanstalk promises a West E cast, lavish costumes, dazzling special effects... a Daisy the tap-dancing cow! Entrance to the Christmas Fayre is free for all panto ticket holders.<br><strong>Merry Christmas!</strong>",
+    "time": "Until 29Décembre; see website for performance dates a times",
+    "location": "Hilton Brighton Metropole",
+    "price": "From £20.00",
+    "linkUrl": "https://www.jackinbrighton.com/",
+    "linkText": "Visit website"
+  }
+]
+}
