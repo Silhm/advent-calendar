@@ -1,5 +1,7 @@
 # avent-kakemono
 
+Demo : http://kakemono.simon-florentin.fr/
+
 ## Build Setup
 
 ```bash
